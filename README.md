@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Kuba👋
 
 <!--
 **jakubbiadun/jakubbiadun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I’m currently learning cybersecurity and ml
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/jakub.biadun.png" alt="TryHackMe">
