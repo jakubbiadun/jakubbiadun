@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 🌱 I’m currently learning cybersecurity and ml
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/jakub.biadun.png" alt="TryHackMe">
+
